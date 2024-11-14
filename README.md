@@ -12,7 +12,9 @@ Manual installation is supported for all OS's. For MacOS / Windows / Linux just 
 
 ### Install via Homebrew Casks
 
-Execute the following to install this fonts via Homebrew casks. 
+Execute the following to install this font via Homebrew casks. 
+
+(Brew is available for [Linux and macOS](https://brew.sh/)
 
 ```bash
 brew tap tdarshana/blex-mono-liga-powerline
